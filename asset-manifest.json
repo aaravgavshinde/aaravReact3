@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aaravReact3/static/css/main.e6c13ad2.css",
+    "main.js": "/aaravReact3/static/js/main.728b6778.js",
+    "static/js/787.f6c83005.chunk.js": "/aaravReact3/static/js/787.f6c83005.chunk.js",
+    "index.html": "/aaravReact3/index.html",
+    "main.e6c13ad2.css.map": "/aaravReact3/static/css/main.e6c13ad2.css.map",
+    "main.728b6778.js.map": "/aaravReact3/static/js/main.728b6778.js.map",
+    "787.f6c83005.chunk.js.map": "/aaravReact3/static/js/787.f6c83005.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.728b6778.js"
+  ]
+}
